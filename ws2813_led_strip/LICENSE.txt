@@ -1,0 +1,5 @@
+This part is build on the source of the Adafruit dotstar 60 strip (https://github.com/adafruit/Fritzing-Library/blob/master/parts/Adafruit%20DotStar%20Strip%2060M_B.fzpz) which is under the following license.
+
+All graphics and documentation in this project are licensed under
+Creative Commons Attribution-ShareALike 3.0 Unported.
+See http://creativecommons.org/licenses/by-sa/3.0/ for the full description.
